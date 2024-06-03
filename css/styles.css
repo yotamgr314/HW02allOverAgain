@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+   background-color: rgb(58,58, 58);
+}
+
+header {
+    background-color: red;
+    height: 128px;
+    width: 100%;
+}
+
+
+main {
+    background-color:greaen;
+}
+
+.headerBackGround
+{
+    background-color: seagreen;
+    height: 797px;
+    width: 100%;
+}
+
+
+footer {
+    background-color: blue;
+}
+
+
+header nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+header nav ul li {
+    margin: auto;
+    background-color: violet;
+}
+
+
+.headerBackGround img{
+    width:100%;
+}
